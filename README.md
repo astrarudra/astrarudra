@@ -70,7 +70,6 @@ Feel free to explore my projects and get in touch!
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![Responsive UI](https://img.shields.io/badge/Responsive_UI-%23000.svg?style=flat-square&logo=html5&logoColor=white)
 
-
 #### Tools
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
