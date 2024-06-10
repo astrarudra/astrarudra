@@ -82,7 +82,3 @@ Feel free to explore my projects and get in touch!
 ![Miro](https://img.shields.io/badge/Miro-%23006AFF.svg?style=flat-square&logo=miro&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
-
-
-
-
