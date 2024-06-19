@@ -17,7 +17,7 @@ Feel free to explore my projects and get in touch!
 
 ---
 ## Open Source (FOSS) Contributions
-- [**Zustand-Controller**](https://github.com/RudraRoy1507/zustand-controller) - A UX design pattern to replace Redux-Saga with a lightweight architecture.
+- [**Zustand-Controller**](https://github.com/astrarudra/zustand-controller) - A UX design pattern to replace Redux-Saga with a lightweight architecture.
 - [**Oxy-Utility**](https://github.com/astrarudra/oxy-utility) - A Node.js package for insights with systematic logging and tracking.
 - [**Sadhan-Sangha**](https://github.com/astrarudra/sadhan-sangha) - Open Source Spiritual Webapp, Useful for learning purpose, or building similar webapp.
 - [**Redux-Simplified**](https://github.com/astrarudra/redux-simplified) - An effort to reduce boilerplate of Redux, simplify learning.
